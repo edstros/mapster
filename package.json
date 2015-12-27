@@ -1,0 +1,28 @@
+{
+  "name": "mapster",
+  "version": "1.0.0",
+  "description": "Reusable Google Maps application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edstros/mapster.git"
+  },
+  "author": "Edwin Acevedo (edwin.a.acevedo@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edstros/mapster/issues"
+  },
+  "homepage": "https://github.com/edstros/mapster#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "jsonwebtoken": "^5.4.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.3.4",
+    "morgan": "^1.6.1"
+  }
+}

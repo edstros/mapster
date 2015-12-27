@@ -1,2 +1,2 @@
 # mapster
-Reusable Google Maps application built in Node.js
+Reusable Google Maps application.
